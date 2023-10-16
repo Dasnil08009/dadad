@@ -22,6 +22,6 @@
     <hr>
     <a href = "https://www.youtube.com"> Links to YouTube </a>
     <hr>
-    <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F597782550518161501%2F&psig=AOvVaw1CnctMa0rvlMU5lFoD-yae&ust=1697562735173000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKim4I-I-4EDFQAAAAAdAAAAABAD" height = "300px" width = "300px">
+    <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.radiochisinau.md%2Fmaluri-de-prut-efigia-lui-mihai-eminescu-din-onesti-o-poezie-cu-mereu-alte-si-alte-intelesuri---44236.html&psig=AOvVaw1CnctMa0rvlMU5lFoD-yae&ust=1697562735173000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKim4I-I-4EDFQAAAAAdAAAAABAR" height = "300px" width = "300px">
   </body>
 </html>
